@@ -1,0 +1,22 @@
+No.	Nom			    Prenom	  	NIN		Date de Naissance	    	e-mail					     	Type
+---------------------------------------------------------------------------------------------------------------
+001	MARTIN		  Emma		    95690		09/10/90	    	emmamartin@yahoo.fr				Membre
+002	DUBOIS		  Laurie		  93000		03/02/67		    laurie-dub@gmail.com			Guest
+003	PREVOST	  	Lucas	    	94320		29/03/80	    	lucas_prevost@live.fr			Membre
+004	FABRE		    Paul	    	77185		18/06/88	    	paul-fabre@yahoo.com			Membre
+005	LEMOINE		  Nathalie	  95000		30/05/89	    	nath.lemoine@aol.com			Guest
+006	LACROIX		  Annie		    92800		17/04/91	    	annielacroix@live.com			Membre
+007	DESCHAMPS	  Louis	    	78125		14/09/86	    	louisdes@gmail.com				Membre
+008	PERRET		  Roger	    	92645		20/08/80	    	roger-p@hotmail.com				Guest
+009	LAPORTE		  Jeanne	  	77200		28/02/62	    	je-laporte@live.fr				Guest
+010	ROUSSEAU	  Jean-Marie 	58630		16/11/84	    	jmrousseau@yahoo.com			Membre
+011	DUPONT		  Arnaud		  63201		07/10/81	    	a-dupont@gmail.com				Membre
+012	GERMAIN 	  Isabelle	  51305		10/12/89	    	isa.germain@live.com			Membre
+013	FILS-AIME	  Alix		    54120		06/09/79	    	alixfa@hotmail.com				Membre
+014	JEAN-LOUIS	Joe-Nathan	54821		25/05/90        jljnathan@gmail.com				Membre
+015	JULIEN		  Marc-Andre	51846		27/11/92	    	marc-aj@yahoo.fr			  	Guest
+016	ALEXIS		  Chantal		  69230		18/07/86	    	achantal@yahoo.com				Membre
+017	MARTINEZ	  Caroline	  87301		21/07/90	    	mcaroline@live.com				Membre
+018	LEROY		    Sebastien	  51002		12/12/89	    	sebleroy@gmail.com				Guest
+019	LAMBERT		  Camille		  10234		08/11/85	    	lcamille@yahoo.fr			  	Guest
+020	RICHARD		  Antoine		  99840		03/07/92	    	ritoine@gmail.com			  	Guest
