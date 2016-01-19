@@ -1,0 +1,25 @@
+101	Nissan	    	Sentra			
+102	Honda		      Civic			
+103	Dahiatsu	    Terios			
+104	Toyota		    Yaris			
+
+201	Volkswagen  	Golf			
+202	Suzuki		    Ignis			
+203	Peugot		    305			
+
+301	Hyundai	    	County			
+302	Toyota	    	Hiace			
+
+401	Kia		        Sportage		
+402	Hyundai	    	Tucson			
+403	Honda		      CRV			
+404	Mazda		      BT-50			
+405	Toyota	    	Hilux				
+406	Mitsubishi  	L-200			
+
+501	Volkswagen  	Amarok			
+502	Audi	      	Q-10			
+503	Porshe		    Cayenne			
+504	Land Rover  	Range Rover (Sport)	
+505	Toyota		    Land Cruiser		
+	
