@@ -1,0 +1,26 @@
+No.	Marque		  Modele			        Annee	Couleur	Type
+-------------------------------------------------------------------------
+101	Nissan		  Sentra			        2001	Noir	Economie
+102	Honda		    Civic			          2000	Bleu	Economie
+103	Dahiatsu	  Terios			        2009	Blanc	Economie
+104	Toyota		  Yaris			          2007	Vert	Economie
+
+201	Volkswagen 	Golf			          2010	Rouge	Standard
+202	Suzuki		  Ignis			          2012	Noir	Standard
+203	Peugot		  305			            2011	Gris	Standard
+
+301	Hyundai		  County			        2012	Blanc	Bus
+302	Toyota		  Hiace			          2013	Blanc	Bus
+
+401	Kia		      Sportage		        2014	Noir	4x4
+402	Hyundai		  Tucson			        2013	Bleu	4x4
+403	Honda		    CRV			            2011	Gris	4x4
+404	Mazda		    BT-50			          2012	Noir	4x4
+405	Toyota		  Hilux			          2013	Marron	4x4
+406	Mitsubishi	L-200			          2012	Bleu	4x4
+
+501	Volkswagen	Amarok			        2015	Noir	Premium
+502	Audi		    Q-10			          2015	Blanc	Premium
+503	Porshe		  Cayenne			        2014	Noir	Premium
+504	Land Rover	Range Rover (Sport)	2015	Rouge	Premium
+505	Toyota		  Land Cruiser		    2015	Blanc	Premium
